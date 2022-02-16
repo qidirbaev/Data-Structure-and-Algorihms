@@ -1,0 +1,25 @@
+
++----------------------------+--------------------------------------------------------------+
+|           Yo'l             |   qo'shni yoylar (yo'naltirilgan qirralar), ketme-ketligi    |
++----------------------------+--------------------------------------------------------------+
+|          Zanjir            | qo'shni qirralar (yo'naltirilmagan qirralar), ketme-ketligi  |
++----------------------------+--------------------------------------------------------------+
+|          Kontur            |                          yopiq yo'l                          |
++----------------------------+--------------------------------------------------------------+
+|           Tsikl            |                         yopiq zanjir                         |
++----------------------------+--------------------------------------------------------------+
+|       Eyler zanjiri        | grafning har bir qirrasidan faqat bir marta o'tadigan zanjir |
++----------------------------+--------------------------------------------------------------+
+|        Eyler grafi         |    yopiq Eyler zanjiriga (ya'ni Eyler tsikliga) ega graf     |
++----------------------------+--------------------------------------------------------------+
+|     Yarim Eyler grafi      |         tarkibida yopiq bo'lmagan zanjir mavjud graf         |
++----------------------------+--------------------------------------------------------------+
+| Orientirlangan Eyler yo'li |         har bir yoydan faqat bir marta o'tadigan yo'l        |
++----------------------------+--------------------------------------------------------------+
+| Orientirlangan Eyler grafi |       tarkibida orientirlangan Eyler yo'li mavjud graf       |
++-------------------------------------------------------------------------------------------+
+|[Teorema]:                                                                                 |
+|           Graf Eyler grafi bo'lishi uchun undagi barcha uchlarning darajalari             |
+|           (uchdan chiquvchi qirralar/yoylar soni) juft bo'lishi zarur va yetarli          |
++-------------------------------------------------------------------------------------------+
+
